@@ -42,3 +42,4 @@ def binary_insert_sort(sample: list[int]) -> list[int]:
 ## EDUCATION
 I am studying at a university MIIT in the specialty of an IT specialist.
 ## LANGUAGE
+* English(C1)
